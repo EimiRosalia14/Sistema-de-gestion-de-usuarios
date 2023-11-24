@@ -21,7 +21,6 @@ En esta parte decidí solo colocar el campo de contraseña sin la confirmación 
 ![AgregarUsuario](https://github.com/EimiRosalia14/Sistema-de-gestion-de-usuarios/assets/102777219/00e59ef6-cde2-4e3c-bca4-da2808898f4f)
 
 # Vista del botón "Actualizar" CRUD:
-De igual forma para esta. Se trae la contraseña oculta desde la base de datos. Podemos modificarla pero esta no se mostrará en el Jtable por seguridad solo en la base de datos.
+Al seleccionar el usuario en el Jtable y presionar el botón correspondiente se llenan los Text Field con los valores correspondientes y también se trae la contraseña (oculta) desde la base de datos. Podemos modificarla pero esta no se mostrará en el Jtable por seguridad solo en la base de datos.
 
 ![ActualizarUsuario](https://github.com/EimiRosalia14/Sistema-de-gestion-de-usuarios/assets/102777219/bc011c80-83e5-420a-9cb9-364333c48e48)
-
