@@ -1,7 +1,6 @@
 # Sistema-de-gestion-de-usuarios
 
 Amy Rosalía Pérez Ramírez.
-Link del video: https://drive.google.com/file/d/19yj2Z2afCXi83nLwXvtK0O95O83Peg1K/view?usp=drive_link
 
 # Vista del Login:
 ![Login](https://github.com/EimiRosalia14/Sistema-de-gestion-de-usuarios/assets/102777219/ba9c2b1a-f84d-472f-af96-43c7747c25f4)
